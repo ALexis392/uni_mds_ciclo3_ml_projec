@@ -48,7 +48,7 @@ data/training/y_train.csv
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
+
 
 # Environment
 .env
